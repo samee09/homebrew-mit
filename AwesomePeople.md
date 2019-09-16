@@ -12,3 +12,4 @@ Shaunak Bhaiyya
 pavan Bagade Mitra Mandal
 aman wagh
 19.8556732,75.2521548,22190
+samee 17.4126274,78.2679571,11
